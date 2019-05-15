@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+    <include layout="header.xml"/>
+    <textview
+        name="display"
+        text=""
+        w_rel="5"
+        h_rel="5"
+        x_rel="4"
+        y_rel="10" />
+    <button
+        name="cover area"
+        text=""
+        w_rel="20"
+		h_rel="15"
+        x_rel="73"
+        y_rel="15"
+        color="0x2CF3137D" />
+    <include layout="footer.xml"/>
+</layout>

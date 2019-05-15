@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-config-file>
+<lmms version="1.2.0-rc7">
+  <app disablebackup="0" configured="1" language="en" nommpz="0" nomsgaftersetup="0" displaydbfs="0" openlastproject="0"/>
+  <audiosdl device=""/>
+  <mixer hqaudio="1" framesperaudiobuffer="256" mididev="WinMM MIDI" audiodev="SDL (Simple DirectMedia Layer)"/>
+  <paths gigdir="C:/Users/home/Documents/lmms/samples/gig/" backgroundartwork="" defaultsf2="" laddir="C:/Users/home/Documents/lmms/plugins/ladspa/" stkdir="data:/stk/rawwaves/" sf2dir="C:/Users/home/Documents/lmms/samples/soundfonts/" workingdir="C:/Users/home/Documents/lmms/" artwork="data:/themes/default/" vstdir="C:\Program Files/VstPlugins/"/>
+  <tooltips disabled="0"/>
+  <ui compacttrackbuttons="0" disableautoquit="0" displaywaveform="0" smoothscroll="0" enablerunningautosave="0" saveinterval="2" printnotelabels="0" syncvstplugins="0" oneinstrumenttrackwindow="0" enableautosave="1" animateafp="1" vstembedmethod="win32"/>
+  <recentfiles>
+    <file path="C:/Program Files/LMMS/data/projects/demos/StrictProduction-DearJonDoe.mmp"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Socceroos-Progress.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Shovon-ProgressiveHousePluckDemo.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Settel-InnerRecreation.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Saber-FinalStep.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Root84-Initialize.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Popsip-Electric Dancer.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Oglsdl-PpTrip.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Oglsdl-Dr8v2.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Namitryus-K-Project.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Momo64-esp.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Jousboxx-BuzzerBeater.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Impulslogik-Zen.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Greippi - Krem Kaakkuja (Second Flight Remix).mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Farbro-Tectonic.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/EsoXLB-CPU.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/DnB.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Ashore.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/AngryLlama-NewFangled.mmpz"/>
+    <file path="C:/Program Files/LMMS/data/projects/demos/Alf42red-Mauiwowi.mmpz"/>
+    <file path="data:/projects/templates/default.mpt"/>
+    <file path="C:/Users/home/Documents/lmms/projects/DJ Snake - Let Me Love You Instrumental.mmpz"/>
+  </recentfiles>
+</lmms>
